@@ -1,0 +1,62 @@
+{
+    "guitars": [
+        {
+            "guitarID": "111",
+            "make": "Fender",
+            "model": "Stratocaster",
+            "path": "./images/strat.jpg",
+            "desc": "The <strong>Fender Stratocaster</strong> was also created by Leo Fender in 1954. Many players love this guitar, and some famous players consist of George Harrison of the Beatles, Jimi Hendrix, and countless others."
+        },
+        {
+            "guitarID": "112",
+            "make": "Fender",
+            "model": "Telecaster",
+            "path": "./images/tele.jpg",
+            "desc": "This is a <strong>Fender Telecaster</strong> guitar. It was originally made in  1950 by Leo Fender and is one of the most iconic guitars in history.<"
+        },
+        {
+            "guitarID": "113",
+            "make": "Fender",
+            "model": "Jazzmaster",
+            "path": "./images/jazzmaster.jpg",
+            "desc": "The <strong>Fender Jazzmaster</strong> is one of the lesser used Fender guitars. Jazz musicians in the 50's did not adopt this model due to having so many other options, but the offset body style eventually appealed to people in alternative scenes.<"
+        },
+        {
+            "guitarID": "211",
+            "make": "Gibson",
+            "model": "ES-335",
+            "path": "./images/es.jpg",
+            "desc": "This is a <strong>Gibson ES-335</strong>. Some notable guitarists who played this instrument are Chuck Berry, B.B. King, and many others. "
+        }
+    ],
+    "cards": [
+        {
+            "name": "Star Lord",
+            "cost": "2",
+            "power": "2",
+            "ability": "On Reveal: If your opponent played a card here this turn, +3 Power.",
+            "path": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/star-lord.webp?v=177"
+        },
+        {
+            "name": "Iron Lad",
+            "cost": "4",
+            "power": "6",
+            "ability": "On Reveal: Copy the text of your deck’s top card.",
+            "path": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-lad.webp?v=177"
+        },
+        {
+            "name": "Man-Thing",
+            "cost": "4",
+            "power": "5",
+            "ability": "Ongoing: 1, 2, and 3-Cost cards here have -2 Power.",
+            "path": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/473_04.webp?v=177"
+        },
+        {
+            "name": "Galactus",
+            "cost": "6",
+            "power": "5",
+            "ability": "On Reveal: If you’re winning this location and this is your only card here, destroy all other locations.",
+            "path": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/galactus.webp?v=177"
+        }
+    ]
+}
